@@ -1,6 +1,6 @@
-<h1 align="center">Hi Guys 👋, I'm Aditya Dharmawan Saputra</h1>
+<h1 align="center">Hi Guys 👋, I'm Shaffan Madanny</h1>
 <h3 align="center">
-	A passionate fullstack developer from Indonesia<br>
+	A passionate fullstack android and web developer from Indonesia<br>
 	Someone who adheres to idealism. It can be anything as long as you put in the hard work. Sarcasm is something you come up with a lot when you talk. I am fun to work with. I don't like doing the same job over and over again. i always like to learn new things from other people like helping others solve their problems.
 </h3>
 
@@ -8,7 +8,7 @@
 
 - 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information System at [Sriwijaya University](https://unsri.ac.id).
-- 💼 &nbsp; Working as a Fullstack Developer at [SCAFOL](https://scafol.com/) and [SRITECH](https://github.com/Sriwijaya-Techno)
+- 💼 &nbsp; Working as a Fullstack Android and Web Developer at [SCAFOL](https://scafol.com/) and [SRITECH](https://github.com/Sriwijaya-Techno)
 - 🌱 &nbsp; Learning more about Systems Design.
 - ✍️ &nbsp; Music is my hobby.
 - 💬 Ask me about **PHP, VUE**
