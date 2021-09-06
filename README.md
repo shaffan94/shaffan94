@@ -160,17 +160,17 @@
 	<tr>
 		<th colspan="2">
 			<p>
-				<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityadees&theme=ads-juicy-fresh" alt="adityadees" />
+				<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaffan94&theme=ads-juicy-fresh" alt="shaffan94" />
 			</p>
 			<details>
 				<summary>GitHub Profile Stats</summary>
 				<br/>
-				<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=adityadees&show_icons=true&locale=en" alt="adityadees" />
+				<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=shaffan94&show_icons=true&locale=en" alt="shaffan94" />
 			</details>
 			<details>
 				<summary>Most Used Languages</summary>
 				<br/>
-				<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityadees&show_icons=true&locale=en&layout=compact" alt="adityadees" />
+				<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaffan94&show_icons=true&locale=en&layout=compact" alt="shaffan94" />
 			</details>
 		</th>
 	</tr>
@@ -179,7 +179,7 @@
 	</tr>
 	<tr>
 		<th colspan="2">
-			<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=adityadees&column=7&margin-w=15&margin-h=15&theme=juicyfresh"/> </p>
+			<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shaffan94&column=7&margin-w=15&margin-h=15&theme=juicyfresh"/> </p>
 		</th>
 	</tr>
 </table>
