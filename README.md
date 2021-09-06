@@ -10,8 +10,8 @@
 - 🎓 &nbsp; Studying Information System at [Sriwijaya University](https://unsri.ac.id).
 - 💼 &nbsp; Working as a Fullstack Android and Web Developer at [SCAFOL](https://scafol.com/)
 - 🌱 &nbsp; Learning more about Systems Design.
-- ✍️ &nbsp; Music is my hobby.
-- 💬 Ask me about **PHP, JAVA, JAVASCRIPT, KOTLIN, GOLANG**
+- ✍️ &nbsp; Music, reading book, movie are my hobby.
+- 💬 Ask me about **PHP, JAVA, JAVASCRIPT, KOTLIN, GOLANG, DART**
 - 📫 How to reach me **shaffanmadanny@gmail.com**
 
 <br/>
@@ -238,24 +238,6 @@
 	<br>
 	<a href="https://www.buymeacoffee.com/adityadees"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"  alt="adityadees" /></a>
 </p>
-
-# Blog posts By [@AdityaDees](http://adityadees.blogspot.com/)
-<!-- BLOG-POST-LIST:START -->
-- [Udemy Free Course 16 Desember 2020](https://adityadees.blogspot.com/2020/12/udemy-free-course-16-desember-2020.html)
-- [Udemy Free Course 14 Desember 2020 PART III](https://adityadees.blogspot.com/2020/12/udemy-free-course-14-desember-2020-part_98.html)
-- [Udemy Free Course 14 Desember 2020 PART II](https://adityadees.blogspot.com/2020/12/udemy-free-course-14-desember-2020-part_14.html)
-- [Udemy Free Course 14 Desember 2020 PART I](https://adityadees.blogspot.com/2020/12/udemy-free-course-14-desember-2020-part.html)
-- [Udemy Free Course 13 Desember 2020 PART III](https://adityadees.blogspot.com/2020/12/udemy-free-course-13-desember-2020-part_2.html)
-<!-- BLOG-POST-LIST:END -->
-
-# StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
-<!-- STACKOVERFLOW:START -->
-- [looping foreach return duplicate data](https://stackoverflow.com/questions/66589765/looping-foreach-return-duplicate-data)
-- [Answer by AdityaDees for HTML / Javascript display images from user input checkboxes](https://stackoverflow.com/questions/65659336/html-javascript-display-images-from-user-input-checkboxes/65662183#65662183)
-- [Filter multiple value from multi array](https://stackoverflow.com/questions/65606925/filter-multiple-value-from-multi-array)
-- [Answer by AdityaDees for make buttons in javascript](https://stackoverflow.com/questions/65560118/make-buttons-in-javascript/65560549#65560549)
-- [Answer by AdityaDees for which database layout would better for a login system?](https://stackoverflow.com/questions/64781967/which-database-layout-would-better-for-a-login-system/64782200#64782200)
-<!-- STACKOVERFLOW:END -->
 
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
 <table>
