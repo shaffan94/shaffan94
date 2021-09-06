@@ -186,37 +186,28 @@
 
 <h3> Connect with Me </h3>
 <p align="center">
-	<a href="https://adityadees.blogspot.com">
-		<img src="https://img.shields.io/badge/-adityadees.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
-	</a>
-	<a href="https://linkedin.com/in/adityadees">
+	<a href="https://www.linkedin.com/in/shaffan-madanny-41b95a132/">
 		<img src="https://img.shields.io/badge/-Aditya%20Dharmawan%20Saputra-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 	</a>
-	<a href="mailto:adityadees@gmail.com">
+	<a href="mailto:shaffanmadanny@gmail.com">
 		<img src="https://img.shields.io/badge/-adityadees@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 	</a>
-	<a href="https://instagram.com/adityadees">
+	<a href="https://www.instagram.com/shaffanmadanny/">
 		<img src="https://img.shields.io/badge/-@adityadees-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 	</a>
-	<a href="https://stackoverflow.com/users/7590238/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-F48024?style=flat-square&logo=stackoverflow&logoColor=white"/>
-	</a>
-	<a href="https://youtube.com/c/adityadees">
+	<a href="https://www.youtube.com/channel/UCZx1rBTLglefKirxWwZQowQ">
 		<img src="https://img.shields.io/badge/-@adityadees-C11A21?style=flat-square&logo=Youtube&logoColor=white"/>
 	</a>
-	<a href="https://facebook.com/ds.aditya">
+	<a href="https://www.facebook.com/shaffan.madanny/">
 		<img src="https://img.shields.io/badge/-Aditya Dees-3A5894?style=flat-square&logo=Facebook&logoColor=white"/>
 	</a>
-	<a href="https://medium.com/@adityadees">
+	<a href="https://medium.com/@shaffanmadanny">
 		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Medium&logoColor=white"/>
 	</a>
-	<a href="https://independent.academia.edu/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Academia&logoColor=white"/>
-	</a>
-	<a href="https://www.twitter.com/adityadees">
+	<a href="https://twitter.com/MadannyShaffan">
 		<img src="https://img.shields.io/twitter/follow/adityadees?style=flat-square&logo=Twitter&logoColor=white"/>
 	</a>
-	<a href="https://www.github.com/adityadees">
+	<a href="https://github.com/shaffan94">
 		<img src="https://img.shields.io/github/followers/adityadees?style=flat-square&logo=Github&logoColor=white"/>
 	</a>
 
