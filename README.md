@@ -145,16 +145,3 @@
 
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
 > -- Steve Jobs
-
-
-<p align="center">
-	<a href="https://github.com/adityadees/adityadees/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
-		<img src="https://img.shields.io/badge/-Write%20into%20my%20guest%20book-red?style=flat-round"/>
-	</a>
-	<a href="https://komarev.com/ghpvc/?username=adityadees">
-		<img src="https://komarev.com/ghpvc/?username=adityadees"/>
-	</a>
-	<br>
-	<br>
-	<a href="https://www.buymeacoffee.com/adityadees"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"  alt="adityadees" /></a>
-</p>
