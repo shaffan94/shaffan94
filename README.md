@@ -7,7 +7,7 @@
 <h3> 👨 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information System at [Sriwijaya University](https://unsri.ac.id).
+- 🎓 &nbsp; informatics engineering System at [Sriwijaya University](https://unsri.ac.id).
 - 💼 &nbsp; Working as a Fullstack Android and Web Developer at [SCAFOL](https://scafol.com/)
 - 🌱 &nbsp; Learning more about Systems Design.
 - ✍️ &nbsp; Music, reading book, movie are my hobby.
