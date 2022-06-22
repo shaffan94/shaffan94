@@ -1,7 +1,7 @@
 <h1 align="center">Hi Guys 👋, I'm Shaffan Madanny</h1>
 <h3 align="center">
 	A passionate fullstack android and web developer from Indonesia<br>
-	Someone who adheres to idealism. It can be anything as long as you put in the hard work. Sarcasm is something you come up with a lot when you talk. I am fun to work with. I don't like doing the same job over and over again. i always like to learn new things from other people like helping others solve their problems.
+	Someone who adheres to idealism. It can be anything as long as you put in the hard work. I don't like doing the same job over and over again. i always like to learn new things from other people like helping others solve their problems.
 </h3>
 
 <h3> 👨 &nbsp;About Me </h3>
@@ -109,14 +109,6 @@
 				<br/>
 				<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaffan94&show_icons=true&locale=en&layout=compact" alt="shaffan94" />
 			</details>
-		</th>
-	</tr>
-	<tr>
-		<th colspan="2">ACHIEVEMENT</th>
-	</tr>
-	<tr>
-		<th colspan="2">
-			<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shaffan94&column=7&margin-w=15&margin-h=15&theme=juicyfresh"/> </p>
 		</th>
 	</tr>
 </table>
